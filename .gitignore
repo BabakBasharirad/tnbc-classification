@@ -370,3 +370,5 @@ FodyWeavers.xsd
 .ipynb_checkpoints
 
 data/_raw_data
+.DS_Store
+**/.DS_Store
