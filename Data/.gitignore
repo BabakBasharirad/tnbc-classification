@@ -1,0 +1,6 @@
+*.csv
+*.png
+*.svg
+*.parquet
+*.html
+raw_data/
